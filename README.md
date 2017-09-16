@@ -1,2 +1,2 @@
-# OAuth 2 with MongoDB and Wildfly 10.
+# OAuth 2 with MongoDB and Wildfly 11.
 
